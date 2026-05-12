@@ -5,6 +5,7 @@
 #include <Adafruit_BME280.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
+#include "never.h"
 
 // Hardware settings
 #define SCREEN_WIDTH 128
